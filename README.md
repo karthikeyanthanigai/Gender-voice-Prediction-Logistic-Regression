@@ -1,6 +1,8 @@
 # Gender-voice-Prediction-Logistic-Regression
 In this repository we will see what is this Gender voice (male or female) prediction problem parameters/variable values and try to fit this values in a Logistic regression.
 
+![Image description](https://miro.medium.com/max/1400/1*Gtt5UqJaLTEZw_jv0rp5mA.png)
+
 To run the code follow the below steps:
 
 1.Install python(3.6+) and need packages.
